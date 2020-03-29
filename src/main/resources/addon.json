@@ -1,0 +1,10 @@
+
+{
+  "uuid": "%uuid%",
+  "name": "HiveStats",
+  "mainClass": "com.hivestats.main.HiveStats",
+  "description": "View your HiveMC stats wonderfully!",
+  "version": 1,
+  "author": "RadioactiveDroid, xInvalid",
+  "icon": "https://i.imgur.com/NkBtOnC.png"
+}
